@@ -1,0 +1,35 @@
+_repo: History-of-the-Waldenses_74084
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wylie, J. A. (James Aitken)
+    alias: Wylie, James Aitken
+    birthdate: 1808
+    deathdate: 1890
+    gutenberg_agent_id: '33245'
+    url: http://www.gutenberg.org/2009/agents/33245
+    wikipedia: https://en.wikipedia.org/wiki/James_Aitken_Wylie
+description: A reprint of the 16th book of his "History of Protestantism."
+gutenberg_issued: '2024-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74084'
+language: en
+pgterms:marc904: https://archive.org/details/historyofwaldens0000wyli_d6z3/page/n7/mode/2up
+pgterms:marc905: 20230415033412wylie
+pgterms:marc906: '1880'
+pgterms:marc907: gb
+production_note: Carol Brown, Brian Wilson, MWS and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bCassell, Petter, Galpin & Co., $c1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Middle Ages, 600-1500'
+- !lcsh 'Waldenses'
+- !lcc 'BX'
+- GITenberg
+title: History of the Waldenses
+url: http://www.gutenberg.org/ebooks/74084

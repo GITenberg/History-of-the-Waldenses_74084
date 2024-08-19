@@ -1,5 +1,8 @@
 _repo: History-of-the-Waldenses_74084
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74084-h/images/cover.jpg
 creator:
   author:
     agent_name: Wylie, J. A. (James Aitken)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33245
     wikipedia: https://en.wikipedia.org/wiki/James_Aitken_Wylie
 description: A reprint of the 16th book of his "History of Protestantism."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74084#History-of-the-Waldenses
 gutenberg_issued: '2024-07-20'
 gutenberg_type: Text
 identifiers:
